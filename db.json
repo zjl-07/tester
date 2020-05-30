@@ -29,25 +29,25 @@
       "imagePath": "https://image.freepik.com/free-vector/music-event-poster-template-with-abstract-shapes_1361-1316.jpg"
     },
     {
-    "id" : "2",
+      "id" : "2",
       "title": "Covid-19 Protection",
       "desc": "Get free insurance up to 100M",
       "imagePath": "https://image.freepik.com/free-vector/flat-design-new-year-2020-background-concept_23-2148377677.jpg"
     },
     {
-    "id" : "3",
+      "id" : "3",
       "title": "Help Fight Covid-19",
       "desc": "Help each other by donation",
       "imagePath": "https://image.freepik.com/free-photo/engineer-team-working_101709-121.jpg"
     },
     {
-    "id" : "4",
+      "id" : "4",
       "title": "Latest new for Covid-19",
       "desc": "See how you can help them!",
       "imagePath": "https://image.freepik.com/free-vector/colorful-new-year-party-concept_23-2148373941.jpg"
     }
   ],
-  "categories": {
+  "prebook": {
     "entertainment": [
       "https://image.freepik.com/free-vector/characters-people-holding-multimedia-icons-illustration_53876-35228.jpg",
       "https://image.freepik.com/free-vector/musical-instruments-set_1284-3974.jpg",
